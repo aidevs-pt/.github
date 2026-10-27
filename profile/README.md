@@ -1,5 +1,3 @@
-<h1 align="center">DEVS AI LDA</h1>
-
 <p align="center">
   <strong>AI development, software engineering &amp; design.</strong><br />
   Based in Porto, Portugal. Working with businesses worldwide.

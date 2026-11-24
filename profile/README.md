@@ -31,7 +31,9 @@
   <a href="https://github.com/orgs/aidevs-pt/projects/1">Roadmap</a>
 </p>
 
-[![Meet Arrumo, a video made entirely in Arrumo](https://github.com/aidevs-pt/arrumo-video-editor/raw/main/docs/assets/meet-arrumo.gif)](https://youtu.be/v2KcwE8xuso)
+<p align="center">
+  <a href="https://youtu.be/v2KcwE8xuso"><img src="https://github.com/aidevs-pt/arrumo-video-editor/raw/main/docs/assets/meet-arrumo.gif" width="720" alt="Meet Arrumo, a video made entirely in Arrumo"></a>
+</p>
 
 <p align="center"><sub>Every video on our channel is made entirely in Arrumo. People only reviewed and approved each step.</sub></p>
 

@@ -55,6 +55,7 @@ Arrumo works like an editor on your team rather than a clip generator. It drafts
 | [arrumo-plugin-registry](https://github.com/aidevs-pt/arrumo-plugin-registry) | The official plugin catalog, with digest-checked releases |
 | Agent plugins | [Claude Code](https://github.com/aidevs-pt/arrumo-plugin-claude-code) · [Codex](https://github.com/aidevs-pt/arrumo-plugin-codex) |
 | Media plugins | [ElevenLabs](https://github.com/aidevs-pt/arrumo-plugin-elevenlabs) · [OpenAI](https://github.com/aidevs-pt/arrumo-plugin-openai) · [Gemini](https://github.com/aidevs-pt/arrumo-plugin-gemini) · [Higgsfield](https://github.com/aidevs-pt/arrumo-plugin-higgsfield) · [Auto-Dubbing](https://github.com/aidevs-pt/arrumo-plugin-auto-dubbing) |
+| Creative plugins | [Canvas layers](https://github.com/aidevs-pt/arrumo-plugin-canvas) |
 | [ffmpeg-builds](https://github.com/aidevs-pt/ffmpeg-builds) | Small static FFmpeg and ffprobe builds with every source pinned |
 
 **[Star Arrumo](https://github.com/aidevs-pt/arrumo-video-editor)** to follow its releases. **[Build a plugin](https://www.aidevs.pt/tools/arrumo/docs/developer/first-plugin)**, **[report an issue](https://github.com/aidevs-pt/arrumo-video-editor/issues)** or **[contribute](https://github.com/aidevs-pt/arrumo-video-editor/blob/main/CONTRIBUTING.md)**.
